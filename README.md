@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shweta352&label=Profile%20views&color=0e75b6&style=flat" alt="shweta352" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shweta352" alt="shweta352" /></a> </p>
-
 - 🔭 I’m currently working on **Netflix**
 
 - 🌱 I’m currently learning **React, Node.js, mongoDb**
